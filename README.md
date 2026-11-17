@@ -1,5 +1,7 @@
 # Quotes scraper — portfolio demo
 
+![tests](https://github.com/oisaso/quotes-scraper/actions/workflows/tests.yml/badge.svg)
+
 **What it proves:** a working, production-shaped scraper with no third-party
 dependencies — pagination, retries with backoff, rate limiting, dedupe,
 clean CSV/JSON export. This is the "automation / scraper" gig's proof piece.
